@@ -13,7 +13,12 @@
 
 - Predicting number 3
 
-![Predicting number 3](https://github.com/AAljmiai/Classification/raw/main/Screen%20Shot%202021-12-17%20at%2012.58.55%20PM.png)
+<p align="center">
+  <img src="https://github.com/AAljmiai/Classification/raw/main/Screen%20Shot%202021-12-17%20at%2012.58.55%20PM.png">
+</p>
 
 ## Demo using an iPhone:
-![Predicting using iPhone](https://github.com/AAljmiai/Classification/raw/main/iphone.gif)
+
+<p align="center">
+  <img src="https://github.com/AAljmiai/Classification/raw/main/iphone.gif">
+</p>
