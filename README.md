@@ -7,7 +7,9 @@
 
 - Predicting number 4
 
-![Predicting number 4](https://github.com/AAljmiai/Classification/raw/main/Screen%20Shot%202021-12-17%20at%201.00.56%20PM.png?style=centerme)
+<p align="center">
+  <img src="https://github.com/AAljmiai/Classification/raw/main/Screen%20Shot%202021-12-17%20at%201.00.56%20PM.png">
+</p>
 
 - Predicting number 3
 
